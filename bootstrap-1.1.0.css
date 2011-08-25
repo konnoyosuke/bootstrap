@@ -707,7 +707,7 @@ form label {
   color: #404040;
 }
 form div.input {
-  margin-left: 150px;
+  _margin-left: 150px;
 }
 form input[type=checkbox], form input[type=radio] {
   cursor: pointer;
