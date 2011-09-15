@@ -770,7 +770,6 @@ form input[type=text]:focus, form input[type=password]:focus, form textarea:focu
   box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6);
 }
 form div.error {
-  background: #fae5e3;
   padding: 10px 0;
   margin: -10px 0 10px;
   -webkit-border-radius: 4px;
